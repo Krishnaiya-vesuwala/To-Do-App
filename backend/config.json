@@ -1,3 +1,3 @@
 {
-    "connectionString":"mongodb://localhost:27017/notesapp"
+    "connectionString":"mongodb+srv://krishnaiya:MGZkkoarBn3IxGMk@notesapp.rjsrnjd.mongodb.net/?retryWrites=true&w=majority&appName=notesapp"
 }
