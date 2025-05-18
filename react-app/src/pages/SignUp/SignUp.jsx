@@ -65,6 +65,7 @@ const SignUp = () => {
                 setError('An unexpected error occurred. Please try again.');
             }
         }
+    navigate("/");
 
   };
 
